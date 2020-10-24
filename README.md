@@ -1,9 +1,9 @@
 
-##BootScript
+# BootScript
 
 A Typescript bootstraping script for new projects
 
-##How to use it
+## How to use it
 - clone the repository
 
 ```bash
