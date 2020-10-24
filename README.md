@@ -7,7 +7,7 @@ A Typescript bootstraping script for new projects
 - clone the repository
 
 ```bash
-chmode +x shell.sh
+chmod +x shell.sh
 
 sh shell.sh
 ```
